@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ main.cpp Tournament.cpp Player.cpp Computer.cpp RandomComputer.cpp Bureaucrat.cpp Avalanche.cpp Toolbox.cpp Referee.cpp Crescendo.cpp FistfullODollars.cpp PaperDoll.cpp -o test1     
+
+./test1
